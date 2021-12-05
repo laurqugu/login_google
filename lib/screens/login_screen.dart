@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
 class LoginScreen extends StatefulWidget {
   const LoginScreen({ Key? key }) : super(key: key);
@@ -18,7 +19,8 @@ class _LoginScreenState extends State<LoginScreen> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             _showLogo(),
-            SizedBox(height: 20,),
+            SizedBox(height: 20),
+            _showGoogleLoginButton(),
           ],
         ),
       ),      
@@ -29,6 +31,23 @@ class _LoginScreenState extends State<LoginScreen> {
    return Image(
      image: AssetImage('assets/logo.png'),
      width: 120,
+   );
+ }
+
+ Widget _showGoogleLoginButton() {
+   return Container(
+     margin: EdgeInsets.only(left: 10, right: 10),
+     child: Row(
+       children: <Widget>[
+         Expanded(
+           child: ElevatedButton.icon(
+             onPressed: (){},
+             icon: FaIcon(FontAwesomeIcons.google),
+             label: Text('Iniciar sesión con Google'),
+           )
+         )
+       ],
+     )
    );
  }
 }
