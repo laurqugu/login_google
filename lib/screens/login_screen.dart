@@ -7,10 +7,10 @@ import 'package:google_sign_in/google_sign_in.dart';
 import 'package:http/http.dart' as http;
 
 import 'package:login_google/helpers/constans.dart';
+import 'package:login_google/models/record.dart';
 import 'package:login_google/models/token.dart';
-import 'package:shared_preferences/shared_preferences.dart';
-
-import 'home_screen.dart';
+import 'package:login_google/screens/record_screen.dart';
+import 'package:login_google/screens/records_screen.dart';
 
 class LoginScreen extends StatefulWidget {
   const LoginScreen({ Key? key }) : super(key: key);
@@ -120,6 +120,8 @@ class _LoginScreenState extends State<LoginScreen> {
       },
       body: bodyRequest,
    );
+
+   print(response.body);
    
    setState(() {
      _showLoader = false;
@@ -144,7 +146,7 @@ class _LoginScreenState extends State<LoginScreen> {
    Navigator.pushReplacement(
      context,
      MaterialPageRoute(
-       builder: (context) => HomeScreen(token: token)
+       builder: (context) => RecordsScreens(token: token)
      )
    );
  }
