@@ -2,109 +2,109 @@
 > Task :app:signingReport
 Variant: debug
 Config: debug
-Store: C:\Users\LauraJuliana\.android\debug.keystore
+Store: /Users/lquinchia/.android/debug.keystore
 Alias: AndroidDebugKey
-MD5: 86:1E:AE:4A:4A:35:08:87:B1:A1:61:EC:5E:B8:84:9E
-SHA1: DE:FB:B1:98:F9:AB:6E:A9:50:04:DC:49:56:A2:17:8A:71:6F:2B:FA
-SHA-256: 9D:FB:24:D8:E1:CB:E9:F4:A8:53:97:FD:32:DC:D6:D4:56:BE:BD:E4:36:1F:A1:A2:45:53:79:22:A7:F6:98:0A
-Valid until: domingo 15 de octubre de 2051
+MD5: 6C:1F:A0:95:49:E5:D7:E9:5A:B4:DF:14:22:F2:69:50
+SHA1: 1D:D3:6C:0C:15:97:E1:EB:23:18:99:5B:30:67:37:C6:C3:70:87:8E
+SHA-256: 89:E9:A4:A8:E5:FC:3D:C0:5E:34:77:81:1C:5B:1C:33:B1:41:52:01:5B:00:CB:3F:CB:4D:43:32:B3:35:3D:76
+Valid until: Wednesday, October 18, 2051
 ----------
 Variant: release
 Config: debug
-Store: C:\Users\LauraJuliana\.android\debug.keystore
+Store: /Users/lquinchia/.android/debug.keystore
 Alias: AndroidDebugKey
-MD5: 86:1E:AE:4A:4A:35:08:87:B1:A1:61:EC:5E:B8:84:9E
-SHA1: DE:FB:B1:98:F9:AB:6E:A9:50:04:DC:49:56:A2:17:8A:71:6F:2B:FA
-SHA-256: 9D:FB:24:D8:E1:CB:E9:F4:A8:53:97:FD:32:DC:D6:D4:56:BE:BD:E4:36:1F:A1:A2:45:53:79:22:A7:F6:98:0A
-Valid until: domingo 15 de octubre de 2051
+MD5: 6C:1F:A0:95:49:E5:D7:E9:5A:B4:DF:14:22:F2:69:50
+SHA1: 1D:D3:6C:0C:15:97:E1:EB:23:18:99:5B:30:67:37:C6:C3:70:87:8E
+SHA-256: 89:E9:A4:A8:E5:FC:3D:C0:5E:34:77:81:1C:5B:1C:33:B1:41:52:01:5B:00:CB:3F:CB:4D:43:32:B3:35:3D:76
+Valid until: Wednesday, October 18, 2051
 ----------
 Variant: profile
 Config: debug
-Store: C:\Users\LauraJuliana\.android\debug.keystore
+Store: /Users/lquinchia/.android/debug.keystore
 Alias: AndroidDebugKey
-MD5: 86:1E:AE:4A:4A:35:08:87:B1:A1:61:EC:5E:B8:84:9E
-SHA1: DE:FB:B1:98:F9:AB:6E:A9:50:04:DC:49:56:A2:17:8A:71:6F:2B:FA
-SHA-256: 9D:FB:24:D8:E1:CB:E9:F4:A8:53:97:FD:32:DC:D6:D4:56:BE:BD:E4:36:1F:A1:A2:45:53:79:22:A7:F6:98:0A
-Valid until: domingo 15 de octubre de 2051
+MD5: 6C:1F:A0:95:49:E5:D7:E9:5A:B4:DF:14:22:F2:69:50
+SHA1: 1D:D3:6C:0C:15:97:E1:EB:23:18:99:5B:30:67:37:C6:C3:70:87:8E
+SHA-256: 89:E9:A4:A8:E5:FC:3D:C0:5E:34:77:81:1C:5B:1C:33:B1:41:52:01:5B:00:CB:3F:CB:4D:43:32:B3:35:3D:76
+Valid until: Wednesday, October 18, 2051
 ----------
 Variant: debugAndroidTest
 Config: debug
-Store: C:\Users\LauraJuliana\.android\debug.keystore
+Store: /Users/lquinchia/.android/debug.keystore
 Alias: AndroidDebugKey
-MD5: 86:1E:AE:4A:4A:35:08:87:B1:A1:61:EC:5E:B8:84:9E
-SHA1: DE:FB:B1:98:F9:AB:6E:A9:50:04:DC:49:56:A2:17:8A:71:6F:2B:FA
-SHA-256: 9D:FB:24:D8:E1:CB:E9:F4:A8:53:97:FD:32:DC:D6:D4:56:BE:BD:E4:36:1F:A1:A2:45:53:79:22:A7:F6:98:0A
-Valid until: domingo 15 de octubre de 2051
+MD5: 6C:1F:A0:95:49:E5:D7:E9:5A:B4:DF:14:22:F2:69:50
+SHA1: 1D:D3:6C:0C:15:97:E1:EB:23:18:99:5B:30:67:37:C6:C3:70:87:8E
+SHA-256: 89:E9:A4:A8:E5:FC:3D:C0:5E:34:77:81:1C:5B:1C:33:B1:41:52:01:5B:00:CB:3F:CB:4D:43:32:B3:35:3D:76
+Valid until: Wednesday, October 18, 2051
 ----------
 Variant: debugUnitTest
 Config: debug
-Store: C:\Users\LauraJuliana\.android\debug.keystore
+Store: /Users/lquinchia/.android/debug.keystore
 Alias: AndroidDebugKey
-MD5: 86:1E:AE:4A:4A:35:08:87:B1:A1:61:EC:5E:B8:84:9E
-SHA1: DE:FB:B1:98:F9:AB:6E:A9:50:04:DC:49:56:A2:17:8A:71:6F:2B:FA
-SHA-256: 9D:FB:24:D8:E1:CB:E9:F4:A8:53:97:FD:32:DC:D6:D4:56:BE:BD:E4:36:1F:A1:A2:45:53:79:22:A7:F6:98:0A
-Valid until: domingo 15 de octubre de 2051
+MD5: 6C:1F:A0:95:49:E5:D7:E9:5A:B4:DF:14:22:F2:69:50
+SHA1: 1D:D3:6C:0C:15:97:E1:EB:23:18:99:5B:30:67:37:C6:C3:70:87:8E
+SHA-256: 89:E9:A4:A8:E5:FC:3D:C0:5E:34:77:81:1C:5B:1C:33:B1:41:52:01:5B:00:CB:3F:CB:4D:43:32:B3:35:3D:76
+Valid until: Wednesday, October 18, 2051
 ----------
 Variant: releaseUnitTest
 Config: debug
-Store: C:\Users\LauraJuliana\.android\debug.keystore
+Store: /Users/lquinchia/.android/debug.keystore
 Alias: AndroidDebugKey
-MD5: 86:1E:AE:4A:4A:35:08:87:B1:A1:61:EC:5E:B8:84:9E
-SHA1: DE:FB:B1:98:F9:AB:6E:A9:50:04:DC:49:56:A2:17:8A:71:6F:2B:FA
-SHA-256: 9D:FB:24:D8:E1:CB:E9:F4:A8:53:97:FD:32:DC:D6:D4:56:BE:BD:E4:36:1F:A1:A2:45:53:79:22:A7:F6:98:0A
-Valid until: domingo 15 de octubre de 2051
+MD5: 6C:1F:A0:95:49:E5:D7:E9:5A:B4:DF:14:22:F2:69:50
+SHA1: 1D:D3:6C:0C:15:97:E1:EB:23:18:99:5B:30:67:37:C6:C3:70:87:8E
+SHA-256: 89:E9:A4:A8:E5:FC:3D:C0:5E:34:77:81:1C:5B:1C:33:B1:41:52:01:5B:00:CB:3F:CB:4D:43:32:B3:35:3D:76
+Valid until: Wednesday, October 18, 2051
 ----------
 Variant: profileUnitTest
 Config: debug
-Store: C:\Users\LauraJuliana\.android\debug.keystore
+Store: /Users/lquinchia/.android/debug.keystore
 Alias: AndroidDebugKey
-MD5: 86:1E:AE:4A:4A:35:08:87:B1:A1:61:EC:5E:B8:84:9E
-SHA1: DE:FB:B1:98:F9:AB:6E:A9:50:04:DC:49:56:A2:17:8A:71:6F:2B:FA
-SHA-256: 9D:FB:24:D8:E1:CB:E9:F4:A8:53:97:FD:32:DC:D6:D4:56:BE:BD:E4:36:1F:A1:A2:45:53:79:22:A7:F6:98:0A
-Valid until: domingo 15 de octubre de 2051
+MD5: 6C:1F:A0:95:49:E5:D7:E9:5A:B4:DF:14:22:F2:69:50
+SHA1: 1D:D3:6C:0C:15:97:E1:EB:23:18:99:5B:30:67:37:C6:C3:70:87:8E
+SHA-256: 89:E9:A4:A8:E5:FC:3D:C0:5E:34:77:81:1C:5B:1C:33:B1:41:52:01:5B:00:CB:3F:CB:4D:43:32:B3:35:3D:76
+Valid until: Wednesday, October 18, 2051
 ----------
 
 > Task :google_sign_in:signingReport
 Variant: debugAndroidTest
 Config: debug
-Store: C:\Users\LauraJuliana\.android\debug.keystore
+Store: /Users/lquinchia/.android/debug.keystore
 Alias: AndroidDebugKey
-MD5: 86:1E:AE:4A:4A:35:08:87:B1:A1:61:EC:5E:B8:84:9E
-SHA1: DE:FB:B1:98:F9:AB:6E:A9:50:04:DC:49:56:A2:17:8A:71:6F:2B:FA
-SHA-256: 9D:FB:24:D8:E1:CB:E9:F4:A8:53:97:FD:32:DC:D6:D4:56:BE:BD:E4:36:1F:A1:A2:45:53:79:22:A7:F6:98:0A
-Valid until: domingo 15 de octubre de 2051
+MD5: 6C:1F:A0:95:49:E5:D7:E9:5A:B4:DF:14:22:F2:69:50
+SHA1: 1D:D3:6C:0C:15:97:E1:EB:23:18:99:5B:30:67:37:C6:C3:70:87:8E
+SHA-256: 89:E9:A4:A8:E5:FC:3D:C0:5E:34:77:81:1C:5B:1C:33:B1:41:52:01:5B:00:CB:3F:CB:4D:43:32:B3:35:3D:76
+Valid until: Wednesday, October 18, 2051
 ----------
 Variant: debugUnitTest
 Config: debug
-Store: C:\Users\LauraJuliana\.android\debug.keystore
+Store: /Users/lquinchia/.android/debug.keystore
 Alias: AndroidDebugKey
-MD5: 86:1E:AE:4A:4A:35:08:87:B1:A1:61:EC:5E:B8:84:9E
-SHA1: DE:FB:B1:98:F9:AB:6E:A9:50:04:DC:49:56:A2:17:8A:71:6F:2B:FA
-SHA-256: 9D:FB:24:D8:E1:CB:E9:F4:A8:53:97:FD:32:DC:D6:D4:56:BE:BD:E4:36:1F:A1:A2:45:53:79:22:A7:F6:98:0A
-Valid until: domingo 15 de octubre de 2051
+MD5: 6C:1F:A0:95:49:E5:D7:E9:5A:B4:DF:14:22:F2:69:50
+SHA1: 1D:D3:6C:0C:15:97:E1:EB:23:18:99:5B:30:67:37:C6:C3:70:87:8E
+SHA-256: 89:E9:A4:A8:E5:FC:3D:C0:5E:34:77:81:1C:5B:1C:33:B1:41:52:01:5B:00:CB:3F:CB:4D:43:32:B3:35:3D:76
+Valid until: Wednesday, October 18, 2051
 ----------
 Variant: releaseUnitTest
 Config: debug
-Store: C:\Users\LauraJuliana\.android\debug.keystore
+Store: /Users/lquinchia/.android/debug.keystore
 Alias: AndroidDebugKey
-MD5: 86:1E:AE:4A:4A:35:08:87:B1:A1:61:EC:5E:B8:84:9E
-SHA1: DE:FB:B1:98:F9:AB:6E:A9:50:04:DC:49:56:A2:17:8A:71:6F:2B:FA
-SHA-256: 9D:FB:24:D8:E1:CB:E9:F4:A8:53:97:FD:32:DC:D6:D4:56:BE:BD:E4:36:1F:A1:A2:45:53:79:22:A7:F6:98:0A
-Valid until: domingo 15 de octubre de 2051
+MD5: 6C:1F:A0:95:49:E5:D7:E9:5A:B4:DF:14:22:F2:69:50
+SHA1: 1D:D3:6C:0C:15:97:E1:EB:23:18:99:5B:30:67:37:C6:C3:70:87:8E
+SHA-256: 89:E9:A4:A8:E5:FC:3D:C0:5E:34:77:81:1C:5B:1C:33:B1:41:52:01:5B:00:CB:3F:CB:4D:43:32:B3:35:3D:76
+Valid until: Wednesday, October 18, 2051
 ----------
 Variant: profileUnitTest
 Config: debug
-Store: C:\Users\LauraJuliana\.android\debug.keystore
+Store: /Users/lquinchia/.android/debug.keystore
 Alias: AndroidDebugKey
-MD5: 86:1E:AE:4A:4A:35:08:87:B1:A1:61:EC:5E:B8:84:9E
-SHA1: DE:FB:B1:98:F9:AB:6E:A9:50:04:DC:49:56:A2:17:8A:71:6F:2B:FA
-SHA-256: 9D:FB:24:D8:E1:CB:E9:F4:A8:53:97:FD:32:DC:D6:D4:56:BE:BD:E4:36:1F:A1:A2:45:53:79:22:A7:F6:98:0A
-Valid until: domingo 15 de octubre de 2051
+MD5: 6C:1F:A0:95:49:E5:D7:E9:5A:B4:DF:14:22:F2:69:50
+SHA1: 1D:D3:6C:0C:15:97:E1:EB:23:18:99:5B:30:67:37:C6:C3:70:87:8E
+SHA-256: 89:E9:A4:A8:E5:FC:3D:C0:5E:34:77:81:1C:5B:1C:33:B1:41:52:01:5B:00:CB:3F:CB:4D:43:32:B3:35:3D:76
+Valid until: Wednesday, October 18, 2051
 ----------
 
 Deprecated Gradle features were used in this build, making it incompatible with Gradle 7.0.
 Use '--warning-mode all' to show the individual deprecation warnings.
 See https://docs.gradle.org/6.7/userguide/command_line_interface.html#sec:command_line_warnings
 
-BUILD SUCCESSFUL in 5s
+BUILD SUCCESSFUL in 3s
 2 actionable tasks: 2 executed
