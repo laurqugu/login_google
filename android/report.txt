@@ -1,0 +1,110 @@
+
+> Task :app:signingReport
+Variant: debug
+Config: debug
+Store: C:\Users\LauraJuliana\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 86:1E:AE:4A:4A:35:08:87:B1:A1:61:EC:5E:B8:84:9E
+SHA1: DE:FB:B1:98:F9:AB:6E:A9:50:04:DC:49:56:A2:17:8A:71:6F:2B:FA
+SHA-256: 9D:FB:24:D8:E1:CB:E9:F4:A8:53:97:FD:32:DC:D6:D4:56:BE:BD:E4:36:1F:A1:A2:45:53:79:22:A7:F6:98:0A
+Valid until: domingo 15 de octubre de 2051
+----------
+Variant: release
+Config: debug
+Store: C:\Users\LauraJuliana\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 86:1E:AE:4A:4A:35:08:87:B1:A1:61:EC:5E:B8:84:9E
+SHA1: DE:FB:B1:98:F9:AB:6E:A9:50:04:DC:49:56:A2:17:8A:71:6F:2B:FA
+SHA-256: 9D:FB:24:D8:E1:CB:E9:F4:A8:53:97:FD:32:DC:D6:D4:56:BE:BD:E4:36:1F:A1:A2:45:53:79:22:A7:F6:98:0A
+Valid until: domingo 15 de octubre de 2051
+----------
+Variant: profile
+Config: debug
+Store: C:\Users\LauraJuliana\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 86:1E:AE:4A:4A:35:08:87:B1:A1:61:EC:5E:B8:84:9E
+SHA1: DE:FB:B1:98:F9:AB:6E:A9:50:04:DC:49:56:A2:17:8A:71:6F:2B:FA
+SHA-256: 9D:FB:24:D8:E1:CB:E9:F4:A8:53:97:FD:32:DC:D6:D4:56:BE:BD:E4:36:1F:A1:A2:45:53:79:22:A7:F6:98:0A
+Valid until: domingo 15 de octubre de 2051
+----------
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\LauraJuliana\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 86:1E:AE:4A:4A:35:08:87:B1:A1:61:EC:5E:B8:84:9E
+SHA1: DE:FB:B1:98:F9:AB:6E:A9:50:04:DC:49:56:A2:17:8A:71:6F:2B:FA
+SHA-256: 9D:FB:24:D8:E1:CB:E9:F4:A8:53:97:FD:32:DC:D6:D4:56:BE:BD:E4:36:1F:A1:A2:45:53:79:22:A7:F6:98:0A
+Valid until: domingo 15 de octubre de 2051
+----------
+Variant: debugUnitTest
+Config: debug
+Store: C:\Users\LauraJuliana\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 86:1E:AE:4A:4A:35:08:87:B1:A1:61:EC:5E:B8:84:9E
+SHA1: DE:FB:B1:98:F9:AB:6E:A9:50:04:DC:49:56:A2:17:8A:71:6F:2B:FA
+SHA-256: 9D:FB:24:D8:E1:CB:E9:F4:A8:53:97:FD:32:DC:D6:D4:56:BE:BD:E4:36:1F:A1:A2:45:53:79:22:A7:F6:98:0A
+Valid until: domingo 15 de octubre de 2051
+----------
+Variant: releaseUnitTest
+Config: debug
+Store: C:\Users\LauraJuliana\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 86:1E:AE:4A:4A:35:08:87:B1:A1:61:EC:5E:B8:84:9E
+SHA1: DE:FB:B1:98:F9:AB:6E:A9:50:04:DC:49:56:A2:17:8A:71:6F:2B:FA
+SHA-256: 9D:FB:24:D8:E1:CB:E9:F4:A8:53:97:FD:32:DC:D6:D4:56:BE:BD:E4:36:1F:A1:A2:45:53:79:22:A7:F6:98:0A
+Valid until: domingo 15 de octubre de 2051
+----------
+Variant: profileUnitTest
+Config: debug
+Store: C:\Users\LauraJuliana\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 86:1E:AE:4A:4A:35:08:87:B1:A1:61:EC:5E:B8:84:9E
+SHA1: DE:FB:B1:98:F9:AB:6E:A9:50:04:DC:49:56:A2:17:8A:71:6F:2B:FA
+SHA-256: 9D:FB:24:D8:E1:CB:E9:F4:A8:53:97:FD:32:DC:D6:D4:56:BE:BD:E4:36:1F:A1:A2:45:53:79:22:A7:F6:98:0A
+Valid until: domingo 15 de octubre de 2051
+----------
+
+> Task :google_sign_in:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\LauraJuliana\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 86:1E:AE:4A:4A:35:08:87:B1:A1:61:EC:5E:B8:84:9E
+SHA1: DE:FB:B1:98:F9:AB:6E:A9:50:04:DC:49:56:A2:17:8A:71:6F:2B:FA
+SHA-256: 9D:FB:24:D8:E1:CB:E9:F4:A8:53:97:FD:32:DC:D6:D4:56:BE:BD:E4:36:1F:A1:A2:45:53:79:22:A7:F6:98:0A
+Valid until: domingo 15 de octubre de 2051
+----------
+Variant: debugUnitTest
+Config: debug
+Store: C:\Users\LauraJuliana\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 86:1E:AE:4A:4A:35:08:87:B1:A1:61:EC:5E:B8:84:9E
+SHA1: DE:FB:B1:98:F9:AB:6E:A9:50:04:DC:49:56:A2:17:8A:71:6F:2B:FA
+SHA-256: 9D:FB:24:D8:E1:CB:E9:F4:A8:53:97:FD:32:DC:D6:D4:56:BE:BD:E4:36:1F:A1:A2:45:53:79:22:A7:F6:98:0A
+Valid until: domingo 15 de octubre de 2051
+----------
+Variant: releaseUnitTest
+Config: debug
+Store: C:\Users\LauraJuliana\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 86:1E:AE:4A:4A:35:08:87:B1:A1:61:EC:5E:B8:84:9E
+SHA1: DE:FB:B1:98:F9:AB:6E:A9:50:04:DC:49:56:A2:17:8A:71:6F:2B:FA
+SHA-256: 9D:FB:24:D8:E1:CB:E9:F4:A8:53:97:FD:32:DC:D6:D4:56:BE:BD:E4:36:1F:A1:A2:45:53:79:22:A7:F6:98:0A
+Valid until: domingo 15 de octubre de 2051
+----------
+Variant: profileUnitTest
+Config: debug
+Store: C:\Users\LauraJuliana\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 86:1E:AE:4A:4A:35:08:87:B1:A1:61:EC:5E:B8:84:9E
+SHA1: DE:FB:B1:98:F9:AB:6E:A9:50:04:DC:49:56:A2:17:8A:71:6F:2B:FA
+SHA-256: 9D:FB:24:D8:E1:CB:E9:F4:A8:53:97:FD:32:DC:D6:D4:56:BE:BD:E4:36:1F:A1:A2:45:53:79:22:A7:F6:98:0A
+Valid until: domingo 15 de octubre de 2051
+----------
+
+Deprecated Gradle features were used in this build, making it incompatible with Gradle 7.0.
+Use '--warning-mode all' to show the individual deprecation warnings.
+See https://docs.gradle.org/6.7/userguide/command_line_interface.html#sec:command_line_warnings
+
+BUILD SUCCESSFUL in 5s
+2 actionable tasks: 2 executed
