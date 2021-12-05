@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
+import 'package:google_sign_in/google_sign_in.dart';
 
 class LoginScreen extends StatefulWidget {
   const LoginScreen({ Key? key }) : super(key: key);
@@ -41,7 +42,7 @@ class _LoginScreenState extends State<LoginScreen> {
        children: <Widget>[
          Expanded(
            child: ElevatedButton.icon(
-             onPressed: (){},
+             onPressed: () => _loginGoogle(),
              icon: FaIcon(FontAwesomeIcons.google),
              label: Text('Iniciar sesión con Google'),
            )
@@ -49,5 +50,12 @@ class _LoginScreenState extends State<LoginScreen> {
        ],
      )
    );
+ }
+
+ void _loginGoogle() async{
+   var googleSignIn = GoogleSignIn();
+   await googleSignIn.signOut();
+   var user = await googleSignIn.signIn();
+   print(user);
  }
 }
